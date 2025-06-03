@@ -1,2 +1,2 @@
 # Lnct_Website
-Website creation competition. 
+Website creation competition by LNCT group of college.

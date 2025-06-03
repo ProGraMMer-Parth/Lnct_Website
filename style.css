@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navmenu {
+    background-color: lightblue;
+    margin: 0.5rem;
+    height: 2rem;
+    width: 50rem;
+    border-radius: 20px;
+}
+
+.navmenu ul li {
+    list-style: none;
+    display: inline-block;
+}
+
+.navmenu ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 2rem;
+    width: 50rem;
+}
+
+.navmenu ul li a {
+    text-decoration: none;
+    color: black;
+}
